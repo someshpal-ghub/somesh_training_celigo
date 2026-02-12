@@ -1,0 +1,20 @@
+{
+  "name": "src",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/nodejs_assignments/index.js",
+  "scripts": {
+    "start": "node src/nodejs_assignments/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "fast-xml-parser": "^5.3.5",
+    "xml-parser": "^1.2.1"
+  },
+  "devDependencies": {
+    "prettier": "^3.8.1"
+  }
+}
