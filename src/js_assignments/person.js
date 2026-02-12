@@ -4,5 +4,5 @@
 const Person = {
   firstName: "Mark",
   lastName: "Henry",
-  age: 30
+  age: 30,
 };
