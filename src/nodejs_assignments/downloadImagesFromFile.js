@@ -69,4 +69,7 @@ async function saveImagesToZip() {
   }
 }
 
-module.exports = saveImagesToZip;
+module.exports = {
+  readImageUrls,
+  saveImagesToZip,
+};
